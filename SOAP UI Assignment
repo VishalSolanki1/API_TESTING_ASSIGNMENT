@@ -1,0 +1,34 @@
+Step 1 :- Open Petstore https://petstore.swagger.io/
+
+Step 2:- Test Case 1
+Using READY API Test Steps
+
+Create a Pet using POST Method
+Verify the Details using Get Method
+Modify the Details using Put Method
+Verify the Details using Get Method
+Delete the Pet Record using Delete Method 
+Verify the Details using Get Method
+
+
+Use Atleast 2 Assertions in each Step
+Fetch all the Test Data from Excel in post and put request
+Write the response in Excel sheet
+
+
+Test Case 2
+USING Groovy Script only
+
+Create a new User by taking all the inputs from Excel sheet
+Modify their Details by taking all the inputs from Excel sheet
+Create Login Request
+Create Log out Request
+Create Delete Request
+
+Use Atleast 2 Assertions in each Step
+Fetch all the Test Data from Excel in post and put request
+
+Share your project through Github link on the same sheet along with your test data sheet(Excel)
+
+
+
